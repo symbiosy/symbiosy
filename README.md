@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi There :wave:</h1>
-  <img src="bg.jpg" alt="Background Image"/>
+  <img src="bg.jpg" alt="Background Image" width="1100" height="200"/>
   <br><br>
   <a href="">
     <img src="https://img.shields.io/static/v1?label=Me%20on&message=Telegram&color=29a1d4&logo=telegram" alt="Telegram Link"/>
