@@ -15,7 +15,7 @@
 
 ## I'am Shashank Shekher
 
-- :hamster: Golang Software Engineer at [SAS Institute Inc.](https://sas.com)
+- :hamster: Golang Software Engineer.
 
 ## Skills
 
